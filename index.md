@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Hidden Rebel Base
+tagline: Everything is perfectly fine. We're all fine here now. Thank you. How are you?
 ---
 {% include JB/setup %}
 
