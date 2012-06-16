@@ -4,7 +4,7 @@ _Not to be confused with my antiquated HRB Sass file_
 
 ## TL;DR
 
-Overdue person website overhaul is overdue. 
+Overdue personal website overhaul is overdue. 
 
 ## I grow tired of asking, so it will be the last time...
 
