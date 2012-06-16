@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Andrew Colclough
-tagline: Digital Architect
+title : Hidden Rebel Base
+tagline: Everything is perfectly fine. We're all fine here now. Thank you. How are you?
 author :
   name : Andrew Colclough
   email : andrew.design@gmail.com
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : hiddenrebelbase
     livefyre :
       site_id : 123
     intensedebate :
